@@ -1,1 +1,1 @@
-# cousera-project
+# coursera-project
